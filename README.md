@@ -17,6 +17,6 @@ User can enter a set of anime, we will the extract all the data attributed to it
 important anime in that network and if the rating is too low we shall move to the next anime in the page rank.
 
 ## Frontend
-Have not thought about the final process yet, but currently plan to use flutter for this project.
+Have not thought about the final process yet, but currently plan to use flutter for this part.
 
 
