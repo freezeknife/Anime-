@@ -10,9 +10,13 @@ will be properly cleaned before it can be used in the project for the backend po
 
 ## Backend:
 ###Recommendation based on user opreferences: 
+
 Based on use preferences, we will create a network of anime titles and identify the closest title based on the similarity of the title. This will basically be a neighboring anime title 
 with the msot number of relationships.
+
+
 ### Recommendation based on users wathced anime:
+
 User can enter a set of anime, we will the extract all the data attributed to it like Genre, theme, target age group, etc. Based on that we will implement a page rank algorithm to identify the most 
 important anime in that network and if the rating is too low we shall move to the next anime in the page rank.
 
