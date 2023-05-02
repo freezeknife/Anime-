@@ -6,7 +6,8 @@ prefernces or recommend anime titles based on titles a user enjoyed have enjoyed
 
 ## Obtaining Data for the project(in sql_files folder).
 Data will be obtained for the project using a MAL API( can be found from https://mal-api.readthedocs.io/en/latest/ ). The data obtained using the API will be stored into an SQL database and 
-will be properly cleaned before it can be used in the project for the backend portion of the project.
+will be properly cleaned before it can be used in the project for the backend portion of the project. The database i choose to use is SQLite and 
+we can use the sqlite3 python library to automate the whole process.
 
 ## Backend:
 ### Recommendation based on user opreferences: 
