@@ -9,7 +9,7 @@ Data will be obtained for the project using a MAL API( can be found from https:/
 will be properly cleaned before it can be used in the project for the backend portion of the project.
 
 ## Backend:
-###Recommendation based on user opreferences: 
+### Recommendation based on user opreferences: 
 
 Based on use preferences, we will create a network of anime titles and identify the closest title based on the similarity of the title. This will basically be a neighboring anime title 
 with the msot number of relationships.
